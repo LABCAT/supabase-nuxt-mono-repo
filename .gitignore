@@ -1,0 +1,19 @@
+# Nuxt
+nuxt/node_modules
+nuxt/.nuxt
+nuxt/.output
+nuxt/dist
+nuxt/.env
+nuxt/.env.*
+
+# Supabase
+supabase/.env
+supabase/.env.*
+
+# Environment files
+.env
+.env.*
+
+# Editor and OS files
+.DS_Store
+.vscode
